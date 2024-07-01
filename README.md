@@ -6,7 +6,7 @@
 <br>
 
 ### Download and use:
-#### After downloading the programm you will be able to run it by clicking on it's icon in the system tray on windows.
+#### After downloading the program you will be able to run it by clicking on it's icon in the system tray on windows
 
 <br>
 
