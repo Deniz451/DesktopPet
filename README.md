@@ -11,4 +11,4 @@
 <br>
 
 ### Why:
-#### This project is made purly for fun and to learn so basics of Python and some of its libraries (tkinter, Pillow)
+#### This project is made purly for fun and to learn so basics of Python and some of its libraries, mainly Pygames (also tkinter & Pillow)
