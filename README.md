@@ -1,4 +1,4 @@
-# DesktopPet
+# Desktop Pet
 
 ### About:
 #### This project will be a simple desktop pet coded in Python
