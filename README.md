@@ -3,7 +3,7 @@
 ## Instalation
 <ol>
 <li>Download the repo</li>
-<li>In cmd navigate to teh repo dir and run this command</li>
+<li>In cmd navigate to the repo dir and run this command</li>
 
 <br>
 
